@@ -1,3 +1,9 @@
+# 1.0.2
+
+### ✨ Features and improvements
+
+- Updated dependency versions which resolve security vulnerabilities
+
 # 1.0.1
 
 - Several dependency version updates
